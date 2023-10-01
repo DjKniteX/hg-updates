@@ -223,6 +223,11 @@
       "Size": 4335
     },
     {
+      "Path": "resources/entities/Guy_1.png",
+      "Hash": "03cda548a96feba027f36e93e7375688",
+      "Size": 6345
+    },
+    {
       "Path": "resources/entities/Misc_George.png",
       "Hash": "b0d087d7ac404498062345ae03a6027f",
       "Size": 4095
