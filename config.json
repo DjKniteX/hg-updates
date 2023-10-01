@@ -17,7 +17,7 @@
     "agd.png",
     "mb1.png"
   ],
-  "UpdateUrl": "https://djknitex.github.io/hg-updates/update.json",
+  "UpdateUrl": "",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
   "EnableContextMenus": true,
