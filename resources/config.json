@@ -17,7 +17,7 @@
     "agd.png",
     "mb1.png"
   ],
-  "UpdateUrl": "",
+  "UpdateUrl": "https://hg-updates.vercel.app/",
   "MouseCursor": "",
   "MusicFadeTimer": 1500,
   "EnableContextMenus": true,
