@@ -1,5 +1,5 @@
 ﻿{
-  "Host": "localhost",
+  "Host": "hgdevserver1.ddns.net",
   "Port": 5400,
   "GameFont": "sourcesansproblack",
   "EntityNameFont": "sourcesansproblack",
@@ -7,7 +7,7 @@
   "ActionMsgFont": "sourcesansproblack",
   "UIFont": "sourcesanspro,8",
   "ChatLines": 100,
-  "MenuMusic": "title.ogg",
+  "MenuMusic": "mysong360.ogg",
   "MenuBackground": [
     "background.png"
   ],
