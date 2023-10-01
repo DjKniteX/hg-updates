@@ -2,13 +2,18 @@
   "Files": [
     {
       "Path": "Hollowgrounds - Developer Edition.exe",
-      "Hash": "120c41e04f7a407987cc9eb467a877cc",
-      "Size": 17939968
+      "Hash": "71cef3a5877e5ad7a6af3408cb34d274",
+      "Size": 17850880
     },
     {
-      "Path": "README.txt",
-      "Hash": "5dcfe660478bfb5ef8dcab3fca872bc7",
-      "Size": 369
+      "Path": "libopenal.1.dylib",
+      "Hash": "6408910bdb53c4c85d06262b37f62f49",
+      "Size": 1390500
+    },
+    {
+      "Path": "libSDL2-2.0.0.dylib",
+      "Hash": "25519113d91d712dc3e4983183d8ee17",
+      "Size": 1188204
     },
     {
       "Path": "resources/client_strings.json",
