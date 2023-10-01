@@ -6,16 +6,6 @@
       "Size": 17850880
     },
     {
-      "Path": "libopenal.1.dylib",
-      "Hash": "6408910bdb53c4c85d06262b37f62f49",
-      "Size": 1390500
-    },
-    {
-      "Path": "libSDL2-2.0.0.dylib",
-      "Hash": "25519113d91d712dc3e4983183d8ee17",
-      "Size": 1188204
-    },
-    {
       "Path": "resources/client_strings.json",
       "Hash": "743ce1d5c253bc4c0e7ab6576e32b9f2",
       "Size": 32227,
@@ -23,8 +13,8 @@
     },
     {
       "Path": "resources/config.json",
-      "Hash": "cff110d6a972233df96ae396b39ada7b",
-      "Size": 1190
+      "Hash": "4ef577aaf171d448c1e60712bd05484c",
+      "Size": 1186
     },
     {
       "Path": "resources/credits.json",
@@ -4176,6 +4166,11 @@
       "Path": "resources/music/Their-Sacred-Place.ogg",
       "Hash": "4638594c94d54ce0e4adf3d3bf7360fa",
       "Size": 1379847
+    },
+    {
+      "Path": "resources/music/title.ogg",
+      "Hash": "39e73bdb760db7e2de419e1a85e6a810",
+      "Size": 502186
     },
     {
       "Path": "resources/music/Tower-Defense_Looping.ogg",

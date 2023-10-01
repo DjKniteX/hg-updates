@@ -7,7 +7,7 @@
   "ActionMsgFont": "sourcesansproblack",
   "UIFont": "sourcesanspro,8",
   "ChatLines": 100,
-  "MenuMusic": "mysong360.ogg",
+  "MenuMusic": "title.ogg",
   "MenuBackground": [
     "background.png"
   ],
