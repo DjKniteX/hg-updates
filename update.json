@@ -1473,16 +1473,6 @@
       "Size": 32252
     },
     {
-      "Path": "resources/gui/logoold.png",
-      "Hash": "1fbe7b78ff9b6f217da22ac7f6b9bde9",
-      "Size": 25579
-    },
-    {
-      "Path": "resources/gui/logoold2.png",
-      "Hash": "38bbbc29cb095d9c951f07414ef15236",
-      "Size": 15663
-    },
-    {
       "Path": "resources/gui/lootwindow.png",
       "Hash": "b1cd42b7c7c549cced996b815137b1e8",
       "Size": 1104
@@ -7454,8 +7444,8 @@
     },
     {
       "Path": "resources/updater/background.png",
-      "Hash": "c2d0f8f6591f091717127a6c044929f8",
-      "Size": 227300
+      "Hash": "6754341f0344b903c9a443789f24ccb1",
+      "Size": 291176
     },
     {
       "Path": "resources/updater/font.xnb",
