@@ -228,6 +228,31 @@
       "Size": 6345
     },
     {
+      "Path": "resources/entities/Guy_2.png",
+      "Hash": "5142d14d3cf27542c2470aa1c6491817",
+      "Size": 6511
+    },
+    {
+      "Path": "resources/entities/Guy_3.png",
+      "Hash": "fdef3be4c42b1e9cd7115b1a2cf1895c",
+      "Size": 6307
+    },
+    {
+      "Path": "resources/entities/Guy_4.png",
+      "Hash": "d852e579a60539a3c708d02644914f3f",
+      "Size": 6491
+    },
+    {
+      "Path": "resources/entities/Guy_5.png",
+      "Hash": "d4939fd2077f73f8eab42638c2a60f82",
+      "Size": 6471
+    },
+    {
+      "Path": "resources/entities/Guy_6.png",
+      "Hash": "a48fc8239c458ce65c6d64e65283be6f",
+      "Size": 6427
+    },
+    {
       "Path": "resources/entities/Misc_George.png",
       "Hash": "b0d087d7ac404498062345ae03a6027f",
       "Size": 4095
